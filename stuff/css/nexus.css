@@ -1578,8 +1578,8 @@ a.slicknav_item [class*=" fa-"] {
   -moz-transition: -moz-transform 0.4s ease-out;
   transition: transform 0.4s ease-out;
   max-width: none;
-  width: 100%;
-  height: auto;
+  /*width: 100%;
+  height: auto;*/
 }
 .portfolio-item figcaption {
   border-top: 5px solid #16181c;
@@ -1629,8 +1629,8 @@ ul.grid li:first-child a {
   -moz-transform: translate3d(-50px, 0px, 0px);
   -ms-transform: translate3d(-50px, 0px, 0px);
   transform: translate3d(-50px, 0px, 0px);
-  width: 100%;
-  height: auto;
+  /*width: 100%;
+  height: auto;*/
 }
 .no-touch .portfolio-item figure:hover figcaption,
 .portfolio-item figure.cs-hover figcaption {
